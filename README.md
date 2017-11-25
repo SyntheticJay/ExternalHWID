@@ -21,6 +21,10 @@ Contact Me: Jay#2823 (Discord)
 Yes, I am using the LoggerFramework I made, it's simple and quite easy to use, it provides not so much use for this, but it's something cool to have.
 https://www.github.com/SyntethicJay/LoggerFramework
 
+# Images
+
+https://imgur.com/a/eQXZF
+
 Thanks!
 
 ~Jay
