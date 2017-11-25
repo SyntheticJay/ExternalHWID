@@ -8,7 +8,7 @@ ExternalHWID is a program with a GUI designed on giving the user their HWID and 
 
 I would use it for something like a whitelist/blacklist, but it's up to you.
 
-## Credits
+## Credits / Use
 
 To be able to use my program, please leave credits to SyntheticJay/Jay#2823.
 
